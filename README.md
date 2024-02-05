@@ -1,4 +1,4 @@
-Traffic data from [Darmstadt opendata](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/) service.
+Traffic data from [Darmstadt opendata](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/) service
 
 Python script for scraping [darmstadt_download.py](darmstadt_download.py)
 
