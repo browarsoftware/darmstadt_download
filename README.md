@@ -1,6 +1,6 @@
 # Traffic data
 
-Traffic data from [Darmstadt opendata](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/) service
+Traffic data from [Darmstadt opendata](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/) service stored in CSV file format.
 
 ## Description
 
