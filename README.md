@@ -1,7 +1,7 @@
 # Traffic data
 
 Traffic data from [Darmstadt opendata](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/) service stored in CSV file format.
-Data is from 2024-01-06 1:00 AM to 2025-01-28 1:00 AM.
+Data is from 2024-01-06 1:00 AM to 2025-03-11 1:00 AM.
 
 ## Description
 
